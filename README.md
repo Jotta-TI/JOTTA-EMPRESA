@@ -1,2 +1,1 @@
-# JOTTA-EMPRESA
-Site oficial da nossa empresa
+# Jota site
